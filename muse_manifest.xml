@@ -1,0 +1,38 @@
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="spheresearch.com" resolutions="1x" timestamp="1507744801259">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4276527222" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="form.muse" crc="367767065" seo="true" mt="1504597794000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="17924269" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="144853533" ref="index"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3854337258" ref="index"/>
+    <file name="webpro.js" crc="416662029" ref="index"/>
+    <file name="form_check.php" crc="4110044762" ref="index"/>
+    <file name="form_throttle.php" crc="22190333" ref="index"/>
+    <file name="form_process.php" crc="257545537" ref="index"/>
+    <file name="form-u116.php" crc="4266360784" ref="index"/>
+    <file name="require.js" crc="3861931657" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="logo complete 3.png" crc="3770981727" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="footericon01.png" crc="147744704" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="footericon02.png" crc="4157289281" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="footericon03.png" crc="188072960" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3993850996" seo="true" mt="1507744773340" redirect="true"/>
+</manifest>
