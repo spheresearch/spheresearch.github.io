@@ -1,1 +1,0 @@
-# spheresearch.github.io
